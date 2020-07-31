@@ -1,0 +1,16 @@
+{
+"companyName": "Researcher",
+"productName": "Assigment5B",
+"productVersion": "0.1",
+"dataUrl": "Final Assignment WebGL.data.unityweb",
+"wasmCodeUrl": "Final Assignment WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Final Assignment WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
